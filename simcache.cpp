@@ -1,7 +1,5 @@
 /*
 CS-UY 2214
-Adapted from Jeff Epstein
-Starter code for E20 Cache Simulator
 sim.cpp
 */
 //OLIVER OSTOJIC
